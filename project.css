@@ -1,0 +1,39 @@
+#flex-container {
+  background-color:white;
+  margin: 10px;
+  padding: 20px;
+  font-size: 30px;
+  display:inline-block;
+  border-color: blue;
+  Justify-content: space-around;
+  height:100% ;
+  width:80% ;
+}
+.flex-item {
+border-radius: 10px;
+background-color:rgb(204, 228, 238);
+height:225px;
+width:225px ;
+margin: 20px;
+display:inline-block;
+text-align: center;
+}
+.empty{
+background-color: rgb(236, 131, 131);
+
+
+
+}
+.gift{
+background-color: rgb(152, 248, 152);
+
+
+
+}
+h1{
+
+color: green;
+text-align: center;
+
+
+}
