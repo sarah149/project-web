@@ -1,0 +1,30 @@
+#Name of team members:
+1-Lamyaa Mamdouh Sayed
+2-Sara Mamdouh Zain
+
+#Descrption of project:
+
+Searching for the gifts 
+We have five boxes, where one of them contains a hidden gift.
+The user clicks on one random box. If this box contains a gift,
+the website shows “You win in X steps, where X is the number of clicks on the boxes.
+When the user clicks on box without gift, the code increase X with one. 
+
+Now, X contains zero value. When the user clicks on the first box, this box contains no gift.
+Therefore, the value of X increases with one. 
+The user tries and clicks on the third box that contains the hidden gift. 
+Therefore, the site shows the message “You win in 2 steps”. 
+
+ 
+The students will: 
+
+design this game. 
+
+allow the user to select the number of boxes and draw the new game. 
+
+set the hidden gift in one random box. 
+
+allow the user to click on any box. 
+
+ 
+ 
